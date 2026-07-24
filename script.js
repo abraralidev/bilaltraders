@@ -100,14 +100,6 @@
       isNew: false,
     },
     {
-      name: "TP End Plate Kit (2)",
-      sku: "7135-180",
-      cat: "kits",
-      catLabel: "Repair Kits",
-      image: "TP END PLATE KIT 7135-180 (2).jpeg",
-      isNew: false,
-    },
-    {
       name: "TP End Plate Kit",
       sku: "7135-180",
       cat: "kits",
