@@ -9,7 +9,7 @@
       cat: "pumps",
       catLabel: "Pumps & Rotors",
       image: "Accelerator lever 7123-770.jpeg",
-      isNew: true,
+      isNew: false,
     },
     {
       name: "Cam Ring Screw",
@@ -41,7 +41,7 @@
       cat: "pumps",
       catLabel: "Pumps & Rotors",
       image: "DRIVE SHAFT 7139-657C.jpeg",
-      isNew: true,
+      isNew: false,
     },
     {
       name: "Hub Drive",
@@ -73,7 +73,7 @@
       cat: "pumps",
       catLabel: "Pumps & Rotors",
       image: "PUMP COVER 7123-888A.jpg",
-      isNew: true,
+      isNew: false,
     },
     {
       name: "Roller & Shoe Kit",
@@ -81,7 +81,7 @@
       cat: "kits",
       catLabel: "Repair Kits",
       image: "ROLLER & SHOE KIT 7135-72.jpeg",
-      isNew: true,
+      isNew: false,
     },
     {
       name: "Rotor Nut",
@@ -113,7 +113,7 @@
       cat: "kits",
       catLabel: "Repair Kits",
       image: "TP END PLATE KIT 7135-180.jpg",
-      isNew: true,
+      isNew: false,
     },
     {
       name: "Transfer Pump Liner",
@@ -137,7 +137,7 @@
       cat: "pumps",
       catLabel: "Pumps & Rotors",
       image: "TRANSFER PUMP LINER 7185-469.jpg",
-      isNew: true,
+      isNew: false,
     },
     {
       name: "Transfer Pump Steel Blade",
@@ -153,7 +153,7 @@
       cat: "valves",
       catLabel: "Valves",
       image: "metering Valve 7123-490E.jpeg",
-      isNew: true,
+      isNew: false,
     },
     {
       name: "Metering Valve",
@@ -161,6 +161,22 @@
       cat: "valves",
       catLabel: "Valves",
       image: "metering Valve 7139-559H.jpeg",
+      isNew: false,
+    },
+    {
+      name: "FUEL PUMP",
+      sku: "3241F102",
+      cat: "pumps",
+      catLabel: "Pumps & Rotors",
+      image: "FUEL PUMP 3241F102.jpeg",
+      isNew: false,
+    },
+    {
+      name: "Head Rotor",
+      sku: "7123-340U",
+      cat: "pumps",
+      catLabel: "Pumps & Rotors",
+      image: "Head Rotor 7123-340U.jpeg",
       isNew: false,
     },
   ];
